@@ -1,0 +1,1 @@
+Temperatura Para Bateria
