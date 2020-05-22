@@ -9,3 +9,6 @@ Lista de Materiais :
 
 O arquivo "PLX-DAQ-v2.11.xlsm" contem os macros nessesarios para o funcionamento do excel
 
+Esquema
+
+![](ligacao.png)
